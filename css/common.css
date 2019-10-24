@@ -1,0 +1,54 @@
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+.fl {
+	float: left;
+	display: inline;
+}
+.fr {
+	float: right;
+	display: inline;
+}
+
+.l {
+	left: 0;
+}
+.r {
+	right: 0;
+}
+
+.trans {
+	transition: all .3s linear;
+	-ms-transition: all .3s linear;
+	-moz-transition: all .3s linear;
+	-webkit-transition: all .3s linear;
+}
+
+.clearFloat::after {
+	clear: both;
+	content: '';
+	display: block;
+}
+
+.textOverflow {
+	text-overflow: ellipsis;
+	word-break: keep-all;
+	overflow: hidden;
+}
+
+
+/* DropDown组件公共样式 */
+.dropdown {
+	display: inline-block;
+	position: relative;
+}
+.dropdown-toggle {
+	position: relative;
+}
+.dropdown-layer {
+	position: absolute;
+	display: none;
+}

@@ -1,0 +1,32 @@
+[
+	{
+		"url": "javascript:void(0)",
+		"title": "精选图书每满150减50",
+		"mark": "特惠",
+		"icon": "./img/service-hf.png"
+	},	
+	{
+		"url":"javascript:void(0)",
+		"title": "因广州图书仓搬仓升级 配送延迟",
+		"mark": "公告",
+		"icon": "./img/service-jp.png"
+	},
+	{
+		"url": "javascript:void(0)",
+		"title": "爆款手机12期免息 抽奖赢电视",
+		"mark": "特惠",
+		"icon": "./img/service-dyp.png"
+	},
+	{
+		"url":"javascript:void(0)",
+		"title": "广东、福建受台风影响 配送延迟",
+		"mark": "公告",
+		"icon": "./img/service-yx.png"
+	},
+	{
+		"url":"javascript:void(0)",
+		"title": "大闸蟹领券满399减180",
+		"mark": "特惠",
+		"icon": "./img/service-bt.png"
+	}
+]

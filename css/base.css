@@ -1,0 +1,22 @@
+body, h1, h2, h3, h4, h5, h6, p, hr, /*结构元素*/
+ul, ol, li, dl, dt, dd, /*列表元素*/
+form, fieldset, legend, input, button, select, textarea, /*表单元素*/
+th, td, /*表格元素*/
+pre {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+ul, ol, li {
+	list-style: none;
+}
+
+input, button {
+	border: none;
+	outline: none;
+}
